@@ -30,7 +30,6 @@ I sit at the intersection of quantitative data analysis and business inteligence
     </td>
   </tr>
 </table>
----
 
 ### 📈 GitHub Stats
 
