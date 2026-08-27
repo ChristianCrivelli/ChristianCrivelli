@@ -1,8 +1,8 @@
-# Hi there, I'm Christian! 👋
+# Hi there, I'm Christian Crivelli! 👋
 
 ### 📊 Data Engineer & Business Analyst
 
-I sit at the intersection of quantitative data analysis and business inteligence. Currently completing my Bachelor's in Business Analytics at Maastricht University, I really enjoy building the data pipelines and useful micro-tools that you'll see scattered across my repos.
+I sit at the intersection of quantitative data analysis and business inteligence. Currently completing my Master's in Business Inteligence & Smart Services at Maastricht University, I really enjoy building the data pipelines and useful micro-tools that you'll see scattered across my repos.
 
 ### 🛠️ Tech Stack & Tools
 
